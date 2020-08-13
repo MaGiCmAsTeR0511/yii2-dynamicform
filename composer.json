@@ -31,7 +31,7 @@
     },
     "autoload": {
         "psr-4": {
-            "MaGiCmAsTEr0511\\dynamicform\\": "src"
+            "magicmaster0511\\dynamicform\\": "src"
         }
     }
 }

@@ -10,7 +10,7 @@ namespace magicmaster0511\dynamicform;
 /**
  * Asset bundle for dynamicform Widget
  *
- * @author Wanderson Bragança <wanderson.wbc@gmail.com>
+ * @author MaGiCmAsTeR0511 <kurt@hohenauers.eu>
  */
 class DynamicFormAsset extends \yii\web\AssetBundle
 {
