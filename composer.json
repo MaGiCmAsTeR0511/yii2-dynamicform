@@ -12,6 +12,7 @@
     ],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
+    "minimum-stability": "dev",
     "support": {
         "issues": "https://github.com/MaGiCmAsTEr0511/yii2-dynamicform/issues",
         "wiki": "https://github.com/MaGiCmAsTEr0511/yii2-dynamicform/wiki/",
