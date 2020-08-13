@@ -1,6 +1,6 @@
 # The BSD License (BSD)
 
-Copyright (c) 2014, Wanderson Bragança
+Copyright (c) 2020, Kurt Hohenauer
 
 > Redistribution and use in source and binary forms, with or without modification,
 > are permitted provided that the following conditions are met:
@@ -12,7 +12,7 @@ Copyright (c) 2014, Wanderson Bragança
 >  list of conditions and the following disclaimer in the documentation and/or
 >  other materials provided with the distribution.
 >
->  Neither the name of Wanderson Bragança nor the names of its
+>  Neither the name of Kurt Hohenauer nor the names of its
 >  contributors may be used to endorse or promote products derived from
 >  this software without specific prior written permission.
 >

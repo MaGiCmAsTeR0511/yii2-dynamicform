@@ -1,11 +1,11 @@
 <?php
 /**
- * @link      https://github.com/wbraganca/yii2-dynamicform
- * @copyright Copyright (c) 2014 Wanderson Bragança
- * @license   https://github.com/wbraganca/yii2-dynamicform/blob/master/LICENSE
+ * @link      https://github.com/MaGiCmAsTeR0511/yii2-dynamicform
+ * @copyright Copyright (c) 2020 Kurt Hohenauer
+ * @license   https://github.com/MaGiCmAsTeR0511/yii2-dynamicform/blob/master/LICENSE
  */
 
-namespace wbraganca\dynamicform;
+namespace magicmaster0511\dynamicform;
 
 /**
  * Asset bundle for dynamicform Widget

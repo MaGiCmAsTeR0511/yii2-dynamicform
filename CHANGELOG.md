@@ -1,5 +1,8 @@
 # yii2-dynamicform change Log
 
+## [v2.0.3.1 (2020-08-18)](https://github.com/wbraganca/yii2-dynamicform/compare/v2.0.3...v2.0.2)
+
+- Bugfix for Kartik Datecontrol
 
 ## [v2.0.3 (2020-05-18)](https://github.com/wbraganca/yii2-dynamicform/compare/v2.0.3...v2.0.2)
 
